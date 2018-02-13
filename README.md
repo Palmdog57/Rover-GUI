@@ -1,4 +1,4 @@
-# Rover - Tom Cheesecake Palmers Final Year Project! 
+# Rover - Tom Cheesecake Palmers Undergrad Project! 
 
 Software development of a SIEM built with accessibility and ease of use in mind!
 The entire GUI exists within a plugin located in the '/wp-content/plugins/rover-gui' directory
