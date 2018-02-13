@@ -15,9 +15,9 @@ The entire GUI exists within a plugin located in the '/wp-content/plugins/rover-
 
 
 # Requirements
-$ apt-get install mongodb-server npm
-$ npm install node
-& npm install socket.io
+$apt-get install mongodb-server npm
+$npm install node
+&npm install socket.io
 
 # Special Thanks
 A thousand thanks to my mum and dad, Liza, Gregg and of course; Nate, Tanya & Chris
