@@ -1,0 +1,89 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+#full-body{
+  background-color:#000000;
+  color:#ffffff;
+  font-size:16px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font: 300 11px/1.4 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+
+#rover-menu{
+	width:19%;
+	height:100%;
+	background-color: #3e3e3e;
+	overflow-y: auto;
+  
+}
+
+#rover-pages{
+	width:80%;
+	height:100%;
+	background-color: #2d2d2d;
+  position:relative;
+  vertical-align: top;
+  text-align: center;
+}
+
+
+.rover-page{
+	padding:35px;
+}
+
+
+.rover-btn{
+  width:80%;
+  padding: 5px;
+  text-align:center;
+  margin-left:10%;
+  
+
+}
+
+.rover-menu-hr{
+    width: 80%;
+    border: none;
+    border-top: 2px solid #7d7d7d;
+    margin: 14px;
+  margin-left:10%;
+}
+
+
+.rover-btn h3{
+  margin: 0px !important;
+  font-weight: 100 !important;
+}
+
+
+.rover-btn:hover{
+background-color: rgb(75, 75, 75);
+  font-weight: bold !important;
+
+}
+
+.table_data_dsn{
+  background-color:#ffffff;
+	border-bottom: 1.5px solid rgba(75, 75, 75, 0.1);
+  color:#000000;
+  
+}
+  
+.inactive{
+display:none;
+position: absolute;
+top:0px;
+left:0px;
+}
+
+#log_activity_tbl{
+	width:100%;
+  background-color: rgb(75, 75, 75);
+}
+  
+  
