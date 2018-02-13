@@ -19,3 +19,8 @@ $ apt-get install mongodb-server npm
 $ npm install node
 & npm install socket.io
 
+# Special Thanks
+A thousand thanks to my mum and dad, Liza, Gregg and of course; Nate, Tanya & Chris
+Without whom this project would not exist
+
+Peace!
